@@ -1,16 +1,19 @@
 baseURL = "https://satoru.dev/"
+title = "Continuous Kaizen"
+copyright = "Copyright &copy; 2019 - satoru"
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
-title = "Writing as a way to learn"
 theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir= false
-enableMissingTranslationPlaceholders = false
-
+[author]
+    name = "satoru"
+    github = "suzaku"
 
 [outputs]
 home = [ "HTML", "RSS" ]
