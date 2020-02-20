@@ -1,6 +1,6 @@
 baseURL = "https://satoru.dev/"
 title = "Continuous Kaizen"
-copyright = "Copyright &copy; 2019 - satoru"
+copyright = "Copyright &copy; 2020 - satoru"
 
 theme = "kiera"
 
@@ -11,9 +11,11 @@ enableEmoji = true
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
+disqusShortname = "satorulogic"
+
 [author]
-    name = "satoru"
-    github = "suzaku"
+name = "satoru"
+github = "suzaku"
 
 [outputs]
 home = [ "HTML", "RSS" ]
