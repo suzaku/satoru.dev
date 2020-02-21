@@ -1,6 +1,8 @@
 baseURL = "https://satoru.dev/"
-title = "Continuous Kaizen"
+title = "Curious Driven Development"
 copyright = "Copyright &copy; 2020 - satoru"
+
+googleAnalytics = "UA-60059951-1"
 
 theme = "kiera"
 
@@ -16,6 +18,9 @@ disqusShortname = "satorulogic"
 [author]
 name = "satoru"
 github = "suzaku"
+
+[Permalinks]
+blog = "/:year/:month/:title/"
 
 [outputs]
 home = [ "HTML", "RSS" ]
