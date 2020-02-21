@@ -18,6 +18,7 @@ disqusShortname = "satorulogic"
 [author]
 name = "satoru"
 github = "suzaku"
+twitter = "satorulogic"
 
 [Permalinks]
 blog = "/:year/:month/:title/"
