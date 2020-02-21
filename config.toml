@@ -21,7 +21,7 @@ github = "suzaku"
 twitter = "satorulogic"
 
 [Permalinks]
-blog = "/:year/:month/:title/"
+posts = "/:year/:month/:title/"
 
 [outputs]
 home = [ "HTML", "RSS" ]
