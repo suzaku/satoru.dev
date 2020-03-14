@@ -64,4 +64,4 @@ Address: 0xc000098000, Len: 3, Cap: 4
 
 As you can tell from the identical addresses of the first element, the three slices are pointing to the same underlying array. When we call `append` to add a third element to `a`, it's actually like setting the third element of the underlying array, that's why `x` also becomes `[1 2 4]`.
 
-So `append` is not actually a pure function, don't treat it like one!
+So `append` is not actually a pure function, don't treat it like one! If you want to play with the code yourself, here's a link to the [playground](https://play.golang.org/p/OeqEZ7_3R32).
