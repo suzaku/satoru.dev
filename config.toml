@@ -19,6 +19,7 @@ disqusShortname = "satorulogic"
 name = "satoru"
 github = "suzaku"
 twitter = "satorulogic"
+stackoverflow = "225262"
 
 [Permalinks]
 posts = "/:year/:month/:title/"
