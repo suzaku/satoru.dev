@@ -1,0 +1,3 @@
+[submodule "themes/suzaku-kiera"]
+	path = themes/suzaku-kiera
+	url = https://github.com/suzaku/hugo-kiera
